@@ -4,3 +4,13 @@ header{
 .eat-navbar-nav li{
     margin: 0 10px;
 }
+.row{
+background-image: url(/Projects/lets-eat/images/dhew.png);
+background-repeat: no-repeat;
+background-position: left bottom;
+background-size: 170px;
+}
+
+span{
+    color: #FFCB45
+}
