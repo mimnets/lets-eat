@@ -14,3 +14,17 @@ background-size: 170px;
 span{
     color: #FFCB45
 }
+.service-img img{
+    width: 30%;
+}
+.menu-img img{
+    width: 50%;
+}
+.our-menu-card{
+    background-color: #F1F1F1;
+}
+.price-menu{
+    background-color: #FFFFFF;
+    border-top-left-radius: 120px 220px;
+    border-top-right-radius: 90% 90%;
+}
